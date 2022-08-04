@@ -5,7 +5,6 @@ Welcome, I'm Aaron 🤖. A developer from Seattle, Washington.
 ## Currently...
 
 🌱 Learning:
-* Golang
 * AWS
 * Vue 3
 
