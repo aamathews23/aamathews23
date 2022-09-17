@@ -6,7 +6,6 @@ Welcome, I'm Aaron 🤖. A developer from Seattle, Washington.
 
 🌱 Learning:
 * AWS
-* Vue 3
 * Rust
 
 🛠️ My tools:
