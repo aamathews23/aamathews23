@@ -7,10 +7,16 @@ Welcome, I'm Aaron 🤖. A developer from Seattle, Washington.
 🌱 Learning:
 * AWS
 * Rust
+* Wasm
+* Shopify
+* NeoVim
+* GitHub Actions
 
 🛠️ My tools:
 * React / Next.js
-* HTML5
-* Scss
+* Vue 3 / Nuxt
 * Typescript
-* Netlify
+* HTML5
+* CSS / SASS / Tailwind
+* Redis
+* PostgreSQL
